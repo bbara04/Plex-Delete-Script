@@ -1,0 +1,22 @@
+{
+    "local_ip_address": "localhost",
+    "plex": {
+        "port": 32400,
+        "api": "plex api"
+    },
+    "tautulli": {
+        "port": 8181,
+        "api": "tautulli api"
+    },
+    "sonarr": {
+        "delete_after_days": 30,
+        "port": 8989,
+        "api": "sonarr api"
+    },
+    "radarr": {
+        "delete_after_days": 30,
+        "port": 7878,
+        "api": "radarr api"
+    },
+    "excluded_lines": ["fast and furious"]
+}
